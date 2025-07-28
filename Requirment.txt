@@ -1,0 +1,7 @@
+Important Libraries
+
+streamlit
+pdfplumber
+docx
+tempfile
+os
