@@ -5,3 +5,4 @@ pdfplumber
 docx
 tempfile
 os
+pdfplumber
